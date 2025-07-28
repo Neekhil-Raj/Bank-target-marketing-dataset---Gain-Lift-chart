@@ -176,7 +176,7 @@ Sample Output:
 
 ## References
 
-* UCI Repository: [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+* UCI Repository: [Bank Marketing Dataset](https://github.com/Neekhil-Raj/Bank-target-marketing-dataset---Gain-Lift-chart/tree/main)
 * Book: *Machine Learning Using Python* by U. Dinesh Kumar
 * Scikit-learn Documentation: [https://scikit-learn.org/](https://scikit-learn.org/)
 
@@ -189,7 +189,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > Made with ❤️ for data-driven marketing optimization.
-
-```
-
----
