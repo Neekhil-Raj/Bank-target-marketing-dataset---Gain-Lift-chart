@@ -1,4 +1,3 @@
-```markdown
 # Bank Target Marketing - Gain & Lift Chart Analysis
 
 A machine learning project focused on improving marketing efficiency using logistic regression, Gain & Lift chart evaluation, and decision tree visualization on a real-world banking dataset.
@@ -35,39 +34,32 @@ By identifying the most likely responders, businesses can significantly **reduce
 
 ## Key Concepts
 
-### 🔹 Gain
+### Gain
 
 > Measures the cumulative proportion of positive responses up to a decile compared to the total positives in the dataset.
 
 **Formula:**
-```
 
 GAIN = (Cumulative positives up to decile i) / (Total positives)
 
-```
 
-### 🔹 Lift
+### Lift
 
 > Compares the model’s performance with a baseline (random) model at each decile.
 
 **Formula:**
-```
 
 LIFT = (Model cumulative positives at decile i) / (Random cumulative positives at decile i)
 
-````
 
----
-
-## 🗂 Dataset
+## Dataset
 
 - **Source:** [UCI Machine Learning Repository – Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
 - **Description:** Data from Portuguese bank’s marketing campaigns via phone calls. The task is to predict if a client subscribes to a term deposit.
 - **Target Variable:** `y` (yes/no – subscription)
 
----
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 | Category         | Libraries / Tools                          |
 |------------------|---------------------------------------------|
