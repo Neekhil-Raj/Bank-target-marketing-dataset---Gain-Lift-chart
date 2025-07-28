@@ -152,7 +152,9 @@ notebooks/Bank_Marketing_Gain_Lift.ipynb
 
 Sample Output:
 ![Gain Chart](images/gain_chart.png)
+
 ![Lift Chart](images/lift_chart.png)
+
 
 ---
 
