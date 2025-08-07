@@ -63,7 +63,7 @@ LIFT = (Model cumulative positives at decile i) / (Random cumulative positives a
 
 | Category         | Libraries / Tools                          |
 |------------------|---------------------------------------------|
-| Language         | Python 3.x                                  |
+| Language         | Python 3.8                                  |
 | Data Handling    | Pandas, NumPy                               |
 | Visualization    | Matplotlib, Seaborn, Graphviz, pydotplus    |
 | Machine Learning | scikit-learn (Logistic Regression, Decision Tree) |
